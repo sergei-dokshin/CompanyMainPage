@@ -108,6 +108,11 @@ main {
     font-weight: 400;
 }
 
+.mission h5 {
+    font-style: italic;
+    color: gray;
+}
+
 .title {
     background-image: url('../images/title.jpeg');
     background-position: center;
